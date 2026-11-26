@@ -28,6 +28,21 @@
             "license": "CC-BY-SA-4.0",
             "attribution": "libretro/libretro-database, fichier Alleyway (World).cht"
           }
+        },
+        {
+          "id": "alleyway-start-9-lives",
+          "name": "Start With 9 Lives",
+          "code": "095-FCF-F7A",
+          "description": "Commencer une nouvelle partie avec 9 vies",
+          "verification": {
+            "status": "unverified",
+            "notes": "Code répertorié dans la base libretro-database pour Alleyway (World). À tester sur la ROM CRC32 5CC01586."
+          },
+          "source": {
+            "url": "https://github.com/libretro/libretro-database/blob/master/cht/Nintendo%20-%20Game%20Boy/Alleyway%20(World).cht",
+            "license": "CC-BY-SA-4.0",
+            "attribution": "libretro/libretro-database, fichier Alleyway (World).cht"
+          }
         }
       ]
     }
