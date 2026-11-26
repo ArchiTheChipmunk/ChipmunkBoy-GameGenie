@@ -20,8 +20,8 @@
           "code": "BE7-EEF-19E",
           "description": "Vies infinies",
           "verification": {
-            "status": "unverified",
-            "notes": "Code répertorié dans la base libretro-database pour Alleyway (World). Pas encore testé sur la ROM CRC32 5CC01586."
+            "status": "tested",
+            "notes": "Testé avec succès par l'utilisateur dans ChipmunkBoy sur Alleyway (World), ROM CRC32 5CC01586. Le comportement « vies infinies » a été confirmé."
           },
           "source": {
             "url": "https://github.com/libretro/libretro-database/blob/master/cht/Nintendo%20-%20Game%20Boy/Alleyway%20(World).cht",
