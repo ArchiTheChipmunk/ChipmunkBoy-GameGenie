@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "platform": "Nintendo Game Boy",
+  "codeSystem": "Game Genie",
+  "acceptedCodePattern": "^[A-F0-9]{3}-[A-F0-9]{3}-[A-F0-9]{3}$",
+  "updatedAt": "2026-11-26",
+  "entries": []
+}
