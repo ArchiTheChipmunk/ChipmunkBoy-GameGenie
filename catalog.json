@@ -4,5 +4,32 @@
   "codeSystem": "Game Genie",
   "acceptedCodePattern": "^[A-F0-9]{3}-[A-F0-9]{3}-[A-F0-9]{3}$",
   "updatedAt": "2026-11-26",
-  "entries": []
+  "entries": [
+    {
+      "id": "alleyway-world",
+      "gameTitle": "Alleyway",
+      "region": "World",
+      "revision": "0",
+      "rom": {
+        "crc32": "5CC01586"
+      },
+      "codes": [
+        {
+          "id": "alleyway-infinite-lives",
+          "name": "Infinite Lives",
+          "code": "BE7-EEF-19E",
+          "description": "Vies infinies",
+          "verification": {
+            "status": "unverified",
+            "notes": "Code répertorié dans la base libretro-database pour Alleyway (World). Pas encore testé sur la ROM CRC32 5CC01586."
+          },
+          "source": {
+            "url": "https://github.com/libretro/libretro-database/blob/master/cht/Nintendo%20-%20Game%20Boy/Alleyway%20(World).cht",
+            "license": "CC-BY-SA-4.0",
+            "attribution": "libretro/libretro-database, fichier Alleyway (World).cht"
+          }
+        }
+      ]
+    }
+  ]
 }
